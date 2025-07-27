@@ -17,7 +17,7 @@ setup(
     description="A small local packages for ML based books recommendations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Xaps23/End-to-End-Book-Recommender-System",
+    url="https://github.com/xaps-23/End-to-End-Book-Recommender-System",
     author_email="be2020ce91@gces.edu.np",
     packages=find_packages(),
     license="MIT",
