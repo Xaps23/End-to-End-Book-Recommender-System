@@ -1,23 +1,12 @@
 # End-to-End-Book-Recommender-System
 
-## Workflow
-
-- config.yaml
-- entity
-- config/configuration.py
-- components
-- pipeline
-- main.py
-- app.py
-
-
 # How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-https://github.com/xaps-23/End-to-End-Book-Recommender-System
+https://github.com/xaps-23/End-to-End-Book-Recommender-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
